@@ -2,7 +2,7 @@ This also supports Windows only by the way. If you want to play on:
 
 Linux: Use the software 'Wine'.
 
-macOS: Use Whisky
+macOS: Use the software 'Whisky'
 
 ChromeOS: Find 'Use your Linux environment' setting.
 
